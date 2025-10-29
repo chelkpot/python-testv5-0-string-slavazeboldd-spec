@@ -3,7 +3,7 @@
 def solve():
 # Ниже пишите решение задачи
     word = input()
-result = (word + ' ') * 4
+result = (кот + ' ') * 4
 print(result.strip())
         
 # Код ниже не трогать! он нужен для тестов
