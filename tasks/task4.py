@@ -2,7 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+   text = input()
+result = text * 3
+print(result) 
     
 
 
